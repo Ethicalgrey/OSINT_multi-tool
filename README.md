@@ -6,3 +6,4 @@
 2. cd OSINT_multi-tool
 3. now make the Run.py file executable by typing the command below
 4. `chmod +x Run.py`
+5. now run the Run.py file with `python3 Run.py`
