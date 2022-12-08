@@ -5,7 +5,7 @@
 3. `git clone https://github.com/Ethicalgrey/OSINT_multi-tool.git`
 ## How to run the multi-tool??
 1. extract the OSINT_multi-tool
-2. cd OSINT_multi-tool
+2. `cd OSINT_multi-tool`
 3. now make the Run.py file executable by typing the command below
 4. `chmod +x Run.py`
 5. now run the Run.py file with `python3 Run.py`
