@@ -1,5 +1,5 @@
 ## How to download??
-1. clone the Github Repo to the directory you want to clone it to
+1. copy the Github Repo `
 - ![Screenshot_3](https://user-images.githubusercontent.com/65472841/206374151-06c2ca55-4375-40c2-b98b-7c9d15388c33.png)
 
 ## How to run the multi-tool??
